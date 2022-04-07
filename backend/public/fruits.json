@@ -1,0 +1,317 @@
+[
+  {
+    "id": 1,
+    "name": "banana",
+    "origin": ["South Asia", "Southest Asia"],
+    "type": "Tropical",
+    "portion": "One medium-sized",
+    "portionInG": 110,
+    "vitaminCMg": 11,
+    "potassiumMg": 422,
+    "calories": 105,
+    "benefit": ["lowers blood pressure", "improves diabetes management"],
+    "img": "images/banana.png"
+  },
+  {
+    "id": 2,
+    "name": "kiwi",
+    "origin": ["East Asia"],
+    "type": "Berry",
+    "portion": "One medium-sized",
+    "portionInG": 75,
+    "vitaminCMg": 56,
+    "potassiumMg": 148,
+    "calories": 42,
+    "benefit": ["supports heart health", "improves digestive health"],
+    "img": "images/kiwi.png"
+  },
+  {
+    "id": 3,
+    "name": "orange",
+    "origin": ["East Asia"],
+    "type": "Citrus",
+    "portion": "One navel",
+    "portionInG": 140,
+    "vitaminCMg": 83,
+    "potassiumMg": 232,
+    "calories": 73,
+    "benefit": [
+      "promotes heart health",
+      "helps lower blood pressure",
+      "lowers risk of cataracts"
+    ],
+    "img": "images/orange.png"
+  },
+  {
+    "id": 4,
+    "name": "mango",
+    "origin": ["South Asia", "Southest Asia"],
+    "type": "Tropical",
+    "portion": "One cup of raw",
+    "portionInG": 165,
+    "vitaminCMg": 60,
+    "potassiumMg": 277,
+    "calories": 99,
+    "benefit": [
+      "aids fluid balance",
+      "protects against cell damage",
+      "provides anti-inflammatory benefits"
+    ],
+    "img": "images/mango.png"
+  },
+  {
+    "id": 5,
+    "name": "lemon",
+    "origin": ["East Asia", "South Asia"],
+    "type": "Citrus",
+    "portion": "One medium-sized",
+    "portionInG": 110,
+    "vitaminCMg": 31,
+    "potassiumMg": 80,
+    "calories": 17,
+    "benefit": [
+      "improves heart health",
+      "improves eye health",
+      "supports immune function"
+    ],
+    "img": "images/lemon.png"
+  },
+  {
+    "id": 6,
+    "name": "papaya",
+    "origin": ["Central America and Mexico", "Tropical South America"],
+    "type": "Tropical",
+    "portion": "One cup of",
+    "portionInG": 145,
+    "vitaminCMg": 88,
+    "potassiumMg": 264,
+    "calories": 62,
+    "benefit": ["protects vision", "aids digestion", "supports heart health"],
+    "img": "images/papaya.png"
+  },
+  {
+    "id": 7,
+    "name": "strawberries",
+    "origin": ["North America", "Temperate South America"],
+    "type": "Berry",
+    "portion": "One cup of",
+    "portionInG": 152,
+    "vitaminCMg": 89,
+    "potassiumMg": 233,
+    "calories": 49,
+    "benefit": [
+      "Prevents High Blood Sugar",
+      "Eases Arthritis Symptoms",
+      "Promotes Wound Healing"
+    ],
+    "img": "images/strawberries.png"
+  },
+  {
+    "id": 8,
+    "name": "tangerine",
+    "origin": ["East Asia"],
+    "type": "Citrus",
+    "portion": "One small-sized",
+    "portionInG": 76,
+    "vitaminCMg": 27,
+    "potassiumMg": 126,
+    "calories": 40,
+    "benefit": [
+      "Reduces Inflammation",
+      "Supports Healthy Aging",
+      "Improves Eye Health"
+    ],
+    "img": "images/tangerine.png"
+  },
+  {
+    "id": 9,
+    "name": "avokado",
+    "origin": ["Central America and Mexico"],
+    "type": "Berry",
+    "portion": "One medium-sized",
+    "portionInG": 200,
+    "vitaminCMg": 20,
+    "potassiumMg": 485,
+    "calories": 160,
+    "benefit": [
+      "Improves Diabetes Management",
+      "Lowers Metabolic Syndrome Risk",
+      "Promotes Weight Loss"
+    ],
+    "img": "images/avokado.png"
+  },
+  {
+    "id": 10,
+    "name": "blueberries",
+    "origin": ["North America"],
+    "type": "Berry",
+    "portion": "One cup of raw",
+    "portionInG": 148,
+    "vitaminCMg": 14,
+    "potassiumMg": 114,
+    "calories": 84,
+    "benefit": [
+      "Improve Memory",
+      "Fight Inflammation",
+      "Improve Insulin Sensitivity",
+      "Decrease Cancer Risk"
+    ],
+    "img": "images/blueberries.png"
+  },
+  {
+    "id": 11,
+    "name": "apple",
+    "origin": ["Europe", "Central Asia", "East Asia"],
+    "type": "Apples/Pears",
+    "portion": "One medium-sized",
+    "portionInG": 200,
+    "vitaminCMg": 9,
+    "potassiumMg": 214,
+    "calories": 104,
+    "benefit": [
+      "Promotes Heart Health",
+      "Regulates Blood Sugar",
+      "May Support Weight Loss"
+    ],
+    "img": "images/apple.png"
+  },
+  {
+    "id": 12,
+    "name": "pear",
+    "origin": ["Southest Asia", "East Asia", "West Asia", "Southest Europe"],
+    "type": "Apples/Pears",
+    "portion": "One medium-sized",
+    "portionInG": 178,
+    "vitaminCMg": 8,
+    "potassiumMg": 206,
+    "calories": 101,
+    "benefit": [
+      "Helps Repair Cells",
+      "May Lower Risk of Diabetes",
+      "Reduces Risk of Stroke"
+    ],
+    "img": "images/pear.png"
+  },
+  {
+    "id": 13,
+    "name": "grapefruit",
+    "origin": ["Southest Asia", "East Asia"],
+    "type": "Citrus",
+    "portion": "One-half",
+    "portionInG": 123,
+    "vitaminCMg": 38,
+    "potassiumMg": 166,
+    "calories": 52,
+    "benefit": [
+      "Supports Wound Healing",
+      "Promotes Eye Health",
+      "May Help Prevent Cancer"
+    ],
+    "img": "images/grapefruit.png"
+  },
+  {
+    "id": 14,
+    "name": "pineapple",
+    "origin": ["Tropical South America"],
+    "type": "Tropical",
+    "portion": "One cup of",
+    "portionInG": 165,
+    "vitaminCMg": 79,
+    "potassiumMg": 165,
+    "calories": 83,
+    "benefit": [
+      "May Reduce Inflammation",
+      "May Help Reduce Abdominal Obesity",
+      "Aids in Skin Repair"
+    ],
+    "img": "images/pineapple.png"
+  },
+  {
+    "id": 15,
+    "name": "guava",
+    "origin": ["Central America and Mexico"],
+    "type": "Tropical",
+    "portion": "One cup of",
+    "portionInG": 165,
+    "vitaminCMg": 376,
+    "potassiumMg": 688,
+    "calories": 112,
+    "benefit": ["Promotes Better Heart Health", "May Aid Disease Prevention"],
+    "img": "images/guava.png"
+  },
+  {
+    "id": 16,
+    "name": "persimmon",
+    "origin": ["East Asia"],
+    "type": "Berry",
+    "portion": "One medium-sized",
+    "portionInG": 168,
+    "vitaminCMg": 13,
+    "potassiumMg": 270,
+    "calories": 118,
+    "benefit": ["Protects Vision", "Promotes Brain Health"],
+    "img": "images/persimmon.png"
+  },
+  {
+    "id": 17,
+    "name": "blackberries",
+    "origin": ["Asia", "Europe"],
+    "type": "Berry",
+    "portion": "One cup of",
+    "portionInG": 144,
+    "vitaminCMg": 30,
+    "potassiumMg": 233,
+    "calories": 62,
+    "benefit": [
+      "May Lower Cholesterol",
+      "May Protect Against Some Cancers, Supports Strong Bones"
+    ],
+    "img": "images/blackberries.png"
+  },
+  {
+    "id": 18,
+    "name": "cherries",
+    "origin": ["Central Asia", "West Asia"],
+    "type": "Berry",
+    "portion": "One cup of",
+    "portionInG": 138,
+    "vitaminCMg": 10,
+    "potassiumMg": 306,
+    "calories": 87,
+    "benefit": [
+      "Prevents Gout",
+      "May Lower Risk of Cancer, Reduces Muscle Soreness"
+    ],
+    "img": "images/cherries.png"
+  },
+  {
+    "id": 19,
+    "name": "cranberries",
+    "origin": ["North America"],
+    "type": "Berry",
+    "portion": "One cup of",
+    "portionInG": 100,
+    "vitaminCMg": 14,
+    "potassiumMg": 80,
+    "calories": 46,
+    "benefit": ["May Aid Ulcer Prevention", "May Reduce Risk of Some Cancers"],
+    "img": "images/cranberries.png"
+  },
+  {
+    "id": 20,
+    "name": "lime",
+    "origin": ["East Asia", "South Asia"],
+    "type": "Citrus",
+    "portion": "One medium sized",
+    "portionInG": 67,
+    "vitaminCMg": 19,
+    "potassiumMg": 68,
+    "calories": 20,
+    "benefit": [
+      "Fights Oxidative Stress",
+      "Increases Iron Absorption",
+      "Reduces Kidney Stone Risk"
+    ],
+    "img": "images/lime.png"
+  }
+]
