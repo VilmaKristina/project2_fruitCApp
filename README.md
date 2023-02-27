@@ -1,4 +1,4 @@
-# project2_fruitCApp
+# fruitC App/project2
 
 FruitC är en app där användare kan mäta ett dagligt intag på vitamin C.
 
